@@ -1,0 +1,17 @@
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\bin\Debug\WpfApp(DataBindig2).exe.config
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\bin\Debug\WpfApp(DataBindig2).exe
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\bin\Debug\WpfApp(DataBindig2).pdb
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).csprojAssemblyReference.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\MainWindow.g.cs
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\App.g.cs
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2)_MarkupCompile.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2)_MarkupCompile.lref
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\MainWindow.baml
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).g.resources
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp_DataBindig2_.Properties.Resources.resources
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).csproj.GenerateResource.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).csproj.CoreCompileInputs.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).exe
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\WpfApp(DataBindig2).pdb
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\AddWindow.g.cs
+c:\users\agax_mn94\source\repos\WpfApp(DataBindig2)\WpfApp(DataBindig2)\obj\Debug\AddWindow.baml
